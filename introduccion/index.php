@@ -9,6 +9,5 @@
     <?php
       echo "<a href='https://google.com' target='_blank'>Hello, World!</a>";
     ?>
-
 </body>
 </html>
